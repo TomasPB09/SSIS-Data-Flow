@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Laboratorio2", "Laboratorio2\Laboratorio2.dtproj", "{2C93D200-0111-450F-9702-3E81E7A544DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C93D200-0111-450F-9702-3E81E7A544DF}.Development|Default.ActiveCfg = Development
+		{2C93D200-0111-450F-9702-3E81E7A544DF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C25945AC-E820-461A-B755-B17F341A508A}
+	EndGlobalSection
+EndGlobal
